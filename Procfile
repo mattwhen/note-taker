@@ -1,1 +1,1 @@
-web: node ./Develop/server.js
+web: npm start
